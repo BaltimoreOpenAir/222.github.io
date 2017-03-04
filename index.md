@@ -7,8 +7,8 @@ and send information in near-real time to the internet.
 
 Expect the first stations to roll out this spring and summer. 
 
-[News](news.md)
-[About us](about.md)
+- [News](news.md)
+- [About us](about.md)
 
 ### How can you get involved? 
 Interested in hosting a station in your neighborhood? Or hosting a workshop? 
