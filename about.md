@@ -5,6 +5,7 @@ Our work is ongoing, but here's some of what we're up to.
 ### Anna Scott, meteorology & software development
 <img src="images/anna.jpg" width="280" style="float:right; margin: 1em 0 4em 2em;"
 title="Anna"/>
+[images/anna.jpg]
 Based off research on [heat in Baltimore](http://www.baltimoresustainability.org/urban-heat-island-sensors/) Anna spearheaded the project and is currently testing out the sensors
 and working on the network code. 
 
