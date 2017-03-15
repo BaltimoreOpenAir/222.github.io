@@ -3,7 +3,7 @@ layout: page
 permalink: /index
 ---
 
-# Index
+# Home
 
 We're building 300 weather and air quality stations for the Baltimore area. 
 The stations measure temperature, relative humidity, ozone, and nitrogen dioxide.
