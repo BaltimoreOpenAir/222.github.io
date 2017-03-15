@@ -2,7 +2,7 @@
 title: Baltimore Open Air
 description: > # this means to ignore newlines until "baseurl:"
  Baltimore Open Air
-avatar: /images/cube.png
+avatar: https://baltimoreopenair.github.io/images/cube.png
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://baltimoreopenair.github.io" # the base hostname & protocol for your site
 footer-links:
