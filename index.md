@@ -1,3 +1,8 @@
+---
+layout: page
+permalink: /index
+---
+
 # Baltimore Open Air
 
 We're building 300 weather and air quality stations for the Baltimore area. 
