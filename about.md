@@ -3,7 +3,6 @@ layout: page
 permalink: /about
 ---
 
-# Baltimore Open Air 
 Our work is ongoing, but here's some of what we're up to.  
 
 ## Engineering team
