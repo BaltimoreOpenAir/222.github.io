@@ -13,8 +13,6 @@ title="Anna"/>
 Based off research on [heat in Baltimore](http://www.baltimoresustainability.org/urban-heat-island-sensors/) Anna spearheaded the project and is currently testing out the sensors
 and working on the network code. 
 
-You can learn
-
 ### Chris Kelley, electrical engineering
 <img src="images/chris2.jpg" width="100" style="float:right; margin: 1em 0 4em 2em;"
 title="Chris"/>
