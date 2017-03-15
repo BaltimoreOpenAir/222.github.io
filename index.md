@@ -2,7 +2,7 @@
 layout: page
 permalink: /index
 ---
-<img src="images/cube.png" width="280" style="float:right; margin: 1em 0 4em 2em;"
+<img src="images/cube.png" width="200" style="float:right; margin: 1em 0 4em 2em;"
 title="Cheap O. McStation, the low-cost weather and air quality station"/>
 We're building 300 weather and air quality stations for the Baltimore area. 
 The stations measure temperature, relative humidity, ozone, and nitrogen dioxide.
