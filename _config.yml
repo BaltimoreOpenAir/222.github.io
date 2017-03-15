@@ -4,7 +4,7 @@ description: > # this means to ignore newlines until "baseurl:"
  Baltimore Open Air homepage
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://baltimoreopenair.github.io" # the base hostname & protocol for your site
-github_username:  azdoud
+github_username:  BaltimoreOpenAir
 markdown: kramdown
 highlighter: rouge
 gems: ['jekyll/scholar']
