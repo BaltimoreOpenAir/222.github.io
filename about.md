@@ -2,7 +2,7 @@
 layout: page
 permalink: /about
 ---
-
+#About
 Our work is ongoing, but here's some of what we're up to.  
 
 ## Engineering team
