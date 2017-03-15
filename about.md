@@ -13,6 +13,8 @@ title="Anna"/>
 Based off research on [heat in Baltimore](http://www.baltimoresustainability.org/urban-heat-island-sensors/) Anna spearheaded the project and is currently testing out the sensors
 and working on the network code. 
 
+You can learn
+
 ### Chris Kelley, electrical engineering
 <img src="images/chris2.jpg" width="100" style="float:right; margin: 1em 0 4em 2em;"
 title="Chris"/>
@@ -22,8 +24,9 @@ Based off work for his [Open Source Turbidimeter](https://github.com/wash4all/op
 ### Yan Azdoud, mechanical engineering
 <img src="images/yan2.jpg" width="100" style="float:right; margin: 1em 0 4em 2em;"
 title="Yan"/>
-Yan designed the structure that houses our WeatherCubes
-and is testing and sourcing the electrical components.
+Yan designed the structure that houses our WeatherCubes and is testing and sourcing the electrical components.
+
+You can lear more about Yan's interest on his [website](http://azdoud.github.io/) 
 
 ## City
 ### Kristin Baja, community engagement and resiliency planning
